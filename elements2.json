@@ -1,0 +1,86 @@
+[
+    {
+        "number": 1,
+        "symbol": "H",
+        "name": "Hidrojen",
+        "rule": "Başlangıcıyım periyodik tablonun haydi başlayalım.",
+        "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
+    },
+    {
+        "number": 5,
+        "symbol": "B",
+        "name": "Bor",
+        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 6,
+        "symbol": "C",
+        "name": "Karbon",
+        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 7,
+        "symbol": "N",
+        "name": "Azot",
+        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 8,
+        "symbol": "O",
+        "name": "Oksijen",
+        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover"
+    },
+    {
+        "number": 9,
+        "symbol": "F",
+        "name": "Flor",
+        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 10,
+        "symbol": "Ne",
+        "name": "Neon",
+        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 11,
+        "symbol": "Na",
+        "name": "Sodyum",
+        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 12,
+        "symbol": "Mg",
+        "name": "Magnezyum",
+        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 13,
+        "symbol": "Al",
+        "name": "Alüminyum",
+        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 14,
+        "symbol": "Si",
+        "name": "Silisyum",
+        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "colors": "bg-red-100 hover:border-red-500  border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 15,
+        "symbol": "P",
+        "name": "Fosfor",
+        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    }
+]

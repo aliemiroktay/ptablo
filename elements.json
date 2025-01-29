@@ -1,0 +1,348 @@
+[
+    {
+        "number": 1,
+        "symbol": "H",
+        "name": "Hidrojen",
+        "rule": "Başlangıcıyım periyodik tablonun haydi başlayalım.",
+        "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "number": 2,
+        "symbol": "He",
+        "name": "Helyum",
+        "rule": "Hafiflikle dans et ve anın keyfini çıkar. Uçan balonuma atla seni 3 aşım ileri götürecek.",
+        "colors": "bg-orange-200 hover:border-orange-600 border-orange-400 hover:bg-orange-300"
+    },
+    {
+        "number": 3,
+        "symbol": "Li",
+        "name": "Lityum",
+        "rule": "Tebrikler. Enerji kazandınız. 1 kez daha zar at.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 4,
+        "symbol": "Be",
+        "name": "Berilyum",
+        "rule": "Dikkat! Aşırı Berilyuma matuz kaldığın için Berilyum zehirlenmesi yaşıyorsun 1 tur bekle.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "number": 5,
+        "symbol": "B",
+        "name": "Bor",
+        "rule": "Rezervlerimin %70’i Türkiye de bulunuyor. Temizlik ve roket yakıtı olarak kullanırım. ",
+        "colors": "bg-yellow-200 hover:border-orange-500 border-orange-300 hover:bg-yellow-300"
+    },
+    {
+        "number": 6,
+        "symbol": "C",
+        "name": "Karbon",
+        "rule": "Evrende bolluk bakımından 6. Sırada yer alırım. Kızgın yıldızlarda hidrojenin termonükleer yanmasında rol alırım.",
+        "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
+    },
+    {
+        "number": 7,
+        "symbol": "N",
+        "name": "Azot",
+        "rule": "Ben Azot, tüm canlı dokularda bulunurum. Hatta sende bile varım.",
+        "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
+    },
+    {
+        "number": 8,
+        "symbol": "O",
+        "name": "Oksijen",
+        "rule": "Bulunduğun yerde gaz halindeyim. Bir nefes al şimdi akciğerlerindeyim.",
+        "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
+    },
+    {
+        "number": 9,
+        "symbol": "F",
+        "name": "Flor",
+        "rule": "En reaktif element olup argon, neon ve helyum hariç tüm elementler ile tepkimeye girerim.",
+        "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
+    },
+    {
+        "number": 10,
+        "symbol": "Ne",
+        "name": "Neon",
+        "rule": "Işıklı Dünyama hoş geldiniz. Renklerin keyfini çıkar.",
+        "colors": "bg-orange-200 hover:border-orange-600 border-orange-400 hover:bg-orange-300"
+    },
+    {
+        "number": 11,
+        "symbol": "Na",
+        "name": "Sodyum",
+        "rule": "Ben ve arkadaşım tuz molekülünü oluştururuz Arkadaşım Cl ziyaret et.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 12,
+        "symbol": "Mg",
+        "name": "Magnezyum",
+        "rule": "Vay çok hızlı bir giriş yaptın. Bu beni alevlendirdi tam fotoğraf çekmelik bir ortam. Bir arkadaşının fotoğrafını çek.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "number": 13,
+        "symbol": "Al",
+        "name": "Alüminyum",
+        "rule": "Gümüş renkli bir elementim. Doğada genellikle boksit cevheri halinde bulunurum.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 14,
+        "symbol": "Si",
+        "name": "Silisyum",
+        "rule": "Güneşten gelen ışınları enerjiye dönüştürdünüz. 1 tur daha zar at.",
+        "colors": "bg-yellow-200 hover:border-orange-500 border-orange-300 hover:bg-yellow-300"
+    },
+    {
+        "number": 15,
+        "symbol": "P",
+        "name": "Fosfor",
+        "rule": "Dişlerin çürük ve biraz halsiz görünüyorsun. 1 tur bekle ve gücünü geri kazan.",
+        "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
+    },
+    {
+        "number": 16,
+        "symbol": "S",
+        "name": "Kükürt",
+        "rule": "İnsanlık için faydalı bir yerdesin. 1 kez daha zar at.",
+        "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
+    },
+    {
+        "number": 17,
+        "symbol": "Cl",
+        "name": "Klor",
+        "rule": "Hoş geldin. Tuz molekülü haricinde temizlik içinde kullanılırım. Sudaki mikropları öldürürüm. Su bana emanet.",
+        "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
+    },
+    {
+        "number": 18,
+        "symbol": "Ar",
+        "name": "Argon",
+        "rule": "Renksiz, kokusuz ve tatsız bir gazım. Soy gazlar grubunda yer alırım.",
+        "colors": "bg-orange-200 hover:border-orange-600 border-orange-400 hover:bg-orange-300"
+    },
+    {
+        "number": 19,
+        "symbol": "K",
+        "name": "Potasyum",
+        "rule": "Çok terledin potasyum kaybettin. 1 tur bekle.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 20,
+        "symbol": "Ca",
+        "name": "Kalsiyum",
+        "rule": "Pamukkale travertenlerinde benden çok var. Ziyaret edip kemiklerini güçlendirmeni tavsiye ederim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 21,
+        "symbol": "Sc",
+        "name": "Skandiyum",
+        "rule": "Tebrikler! Işık kartı kazandınız diğer oyuncuların gözünü kör ettiniz. Bir tur daha zar at.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 22,
+        "symbol": "Ti",
+        "name": "Titanyum",
+        "rule": "Dünyanın en sert elementine çarptın. 1 tur bekle.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 23,
+        "symbol": "V",
+        "name": "Vanadyum",
+        "rule": "İlk seri üretim araba olan Ford Model T de kullanıldım. Ford Model T’ye bin ve 1 kez daha zar at.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 24,
+        "symbol": "Cr",
+        "name": "Krom",
+        "rule": "Koruyucu ve çekici bir elementim. Mutfakta da çok bulunurum. 1 can kazandınız zar at.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 25,
+        "symbol": "Mn",
+        "name": "Mangan",
+        "rule": "Yüksek karbonlu çeliklerin sertliği benim sayemde.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 26,
+        "symbol": "Fe",
+        "name": "Demir",
+        "rule": "Dünyada mıknatısın çektiği sadece 3 elementten ilkiyim. Arkadaşım kobaltı ziyaret et.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 27,
+        "symbol": "Co",
+        "name": "Kobalt",
+        "rule": "Mıknatısın çektiği ikinci elementim. Arkadaşım Nikeli ziyaret et.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 28,
+        "symbol": "Ni",
+        "name": "Nikel",
+        "rule": "Mıknatısın çektiği üçüncü ve son elementim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 29,
+        "symbol": "Cu",
+        "name": "Bakır",
+        "rule": "Elektriği iyi ileten bir elementim. Seni 3 adım ileri itiyorum.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 30,
+        "symbol": "Zn",
+        "name": "Çinko",
+        "rule": "Sağlık açısından önemli bir elementim. 1 can kazandın, zar at.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 31,
+        "symbol": "Ga",
+        "name": "Galyum",
+        "rule": "Yanlışlıkla vücuduna temas ettim. Eriyorum… hemen zar at ve uzaklaş.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 32,
+        "symbol": "Ge",
+        "name": "Germanyum",
+        "rule": "Hem bir metalim hem de metal olmayan özelliklere sahibimdir. Aynı zamanda bir yarı iletkenim. Yüksek kırılma indeksim sayesinde optik cihazların camlarında kullanılırım.",
+        "colors": "bg-yellow-200 hover:border-orange-500 border-orange-300 hover:bg-yellow-300"
+    },
+    {
+        "number": 33,
+        "symbol": "As",
+        "name": "Arsenik",
+        "rule": "İnsan sağlığı için çok riskli bir elementim. Fazla kalırsan zehirlenirsin. 1 zar at ve hemen kaç.",
+        "colors": "bg-yellow-200 hover:border-orange-500 border-orange-300 hover:bg-yellow-300"
+    },
+    {
+        "number": 34,
+        "symbol": "Se",
+        "name": "Selenyum",
+        "rule": "Toprakları mineral açısından zenginleştiririm. Eksik olduğum topraklarda yaşayan ailelerin çocukları diğer çocuklara oranla daha yavaş büyümekte, kanser çeşitlerinin sık görülebilebilir. Kas yapısında şiddetli bir zayıflık belirir kalp ve damarlardaki esneme kabiliyeti azalır. Çocuklarda benim eksikliğim olumsuz etkiler. Bir tur bekle ve gücünü topla.",
+        "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
+    }
+]
