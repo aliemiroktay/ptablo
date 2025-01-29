@@ -72,7 +72,7 @@
         "number": 4,
         "symbol": "Be",
         "name": "Berilyum",
-        "rule": "Dikkat! Aşırı Berilyuma matuz kaldığın için Berilyum zehirlenmesi yaşıyorsun 1 tur bekle.",
+        "rule": "Dikkat! Aşırı Berilyuma matuz kaldığın için Berilyum zehirlenmesi yaşıyorsun. Başa dön.",
         "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
     },
     {
@@ -209,7 +209,7 @@
         "number": 15,
         "symbol": "P",
         "name": "Fosfor",
-        "rule": "Dişlerin çürük ve biraz halsiz görünüyorsun. 1 tur bekle ve gücünü geri kazan.",
+        "rule": "Dişlerin çürük ve biraz halsiz görünüyorsun. Alüminyum'a dön ve gücünü geri kazan.",
         "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
     },
     {
@@ -237,7 +237,7 @@
         "number": 19,
         "symbol": "K",
         "name": "Potasyum",
-        "rule": "Çok terledin potasyum kaybettin. 1 tur bekle.",
+        "rule": "Çok terledin potasyum kaybettin. 1 geriye git.",
         "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
     },
     {
@@ -258,7 +258,7 @@
         "number": 22,
         "symbol": "Ti",
         "name": "Titanyum",
-        "rule": "Dünyanın en sert elementine çarptın. 1 tur bekle.",
+        "rule": "Dünyanın en sert elementine çarptın. 5 geriye git.",
         "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
     },
     {
@@ -342,7 +342,391 @@
         "number": 34,
         "symbol": "Se",
         "name": "Selenyum",
-        "rule": "Toprakları mineral açısından zenginleştiririm. Eksik olduğum topraklarda yaşayan ailelerin çocukları diğer çocuklara oranla daha yavaş büyümekte, kanser çeşitlerinin sık görülebilebilir. Kas yapısında şiddetli bir zayıflık belirir kalp ve damarlardaki esneme kabiliyeti azalır. Çocuklarda benim eksikliğim olumsuz etkiler. Bir tur bekle ve gücünü topla.",
+        "rule": "Toprakları mineral açısından zenginleşir. Eksik olduğum topraklarda yaşayan ailelerin çocukları diğer çocuklara oranla daha yavaş büyür, kanser çeşitleri sıkça görülür. Kas yapısında zayıflık belirir, kalp ve damarların esneme kabiliyeti azalır. Çocuklarda benim eksikliğim olumsuzdur. İki geri git ve dinlen.",
         "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
+    },
+    {
+        "number": 35,
+        "symbol": "Br",
+        "name": "Brom",
+        "rule": "Sanayide ve laboratuvarda geniş kullanım alanına sahibim. Elektronegatif yapım sayesinde organik sentezlerde de kullanılmaktayım.",
+        "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
+    },
+    {
+        "number": 36,
+        "symbol": "Kr",
+        "name": "Kripton",
+        "rule": "Tek atomlu renksiz ve kokusuz bir gazım.",
+        "colors": "bg-orange-200 hover:border-orange-600 border-orange-400 hover:bg-orange-300"
+    },
+    {
+        "number": 37,
+        "symbol": "Rb",
+        "name": "Rubidyum",
+        "rule": "Kimyasal açıdan potasyum ve sezyumun özelliklerine benzer özellikler gösteririm.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 38,
+        "symbol": "Sr",
+        "name": "Stronsiyum",
+        "rule": "Kimyasal olarak son derece reaktif olup, hava ile temas ettiğimde sarı rengine dönerim. Aleve verdiğim kırmızı renk dolayısıyla havai fişekler ve sinyal maddeleri üretiminde kullanılırım.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 39,
+        "symbol": "Y",
+        "name": "İtryum",
+        "rule": "Mikrodalga filtrelerin yapımında ve Kamera lenslerini ısıya ve darbeye dayanıklı hale getirmek için kullanılırım. Aynı zamanda süper iletken materyaller yapmak için de kullanılırım. Hadi seni süper iletkenliğimle 6 adım ileri götüreyim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 40,
+        "symbol": "Zr",
+        "name": "Zirkonyum",
+        "rule": "Benimle dişlerin çok güzel ve sağlıklı görünecek. Birlikte bembeyaz gülüşlere.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 41,
+        "symbol": "Nb",
+        "name": "Niobyum",
+        "rule": "Jet motorları ve roket yapımın da kullanılırım. Ürettiğim rokete atla seni 3 adım ileri götürecek.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 42,
+        "symbol": "Mo",
+        "name": "Molibden",
+        "rule": "Yüksek erime sıcaklığım sayesinde ısıya dayanıklı çoğu malzemede ben varım. Ayrıca boyalara renk verici olarak da kullanılırım.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 43,
+        "symbol": "Tc",
+        "name": "Teknesyum",
+        "rule": "Suni olarak elde dilen radyoaktif bir elementim. Nükleer tıpta kullanılırım.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 44,
+        "symbol": "Ru",
+        "name": "Rutenyum",
+        "rule": "Doğada çok nadir bulunurum. Az miktarda ve elektro sanayide kullanılırım.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 45,
+        "symbol": "Rh",
+        "name": "Rodyum",
+        "rule": "Ürettiğim uçakla Platine uç.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 46,
+        "symbol": "Pd",
+        "name": "Paladyum",
+        "rule": "Türk parasında bolca bulunurum. Türk parasına değer katarım.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 47,
+        "symbol": "Ag",
+        "name": "Gümüş",
+        "rule": "Çoğu malzemede bulunurum. Genellikle takılarda. Takı takarsan beni unutma.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 48,
+        "symbol": "Cd",
+        "name": "Kadmiyum",
+        "rule": "Zehirli gazlar saldım. Hemen 3 adım ilerle ve burdan uzaklaş.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 49,
+        "symbol": "In",
+        "name": "İndiyum",
+        "rule": "Çok hızlı tükeniyorum. Yaklaşık 20 yılım kaldı. Çok büküldüm çığlık atmamam engel olamıyorum.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 50,
+        "symbol": "Sn",
+        "name": "Kalay",
+        "rule": "Arkadaşım kurşula alaşım yaparak 19. Yy’a kadar bardak ve tabak yapımında kullanıldık. Kurşuna ilerle.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 51,
+        "symbol": "Sb",
+        "name": "Antimon",
+        "rule": "Kötü akraban yemeğine beni attı. Aktimon zehirlenmesi yaşıyorsun. Kurtulman için zar at.",
+        "colors": "bg-yellow-200 hover:border-orange-500 border-orange-300 hover:bg-yellow-300"
+    },
+    {
+        "number": 52,
+        "symbol": "Te",
+        "name": "Tellür",
+        "rule": "Tellür ile zehirlendiniz. Nefesiniz sarımsak gibi kokuyor.",
+        "colors": "bg-yellow-200 hover:border-orange-500 border-orange-300 hover:bg-yellow-300"
+    },
+    {
+        "number": 53,
+        "symbol": "I",
+        "name": "İyot",
+        "rule": "Boğazınızdaki bezeler fazla büyüdü, acil iyot almanız gerek. 4 geriye git.",
+        "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
+    },
+    {
+        "number": 54,
+        "symbol": "Xe",
+        "name": "Ksenon",
+        "rule": "Nadir bulunmama ve Dünya atmosferinden elde edilmeme rağmen kullanım alanları saymakla bitmez. Ayrıca pahalı bir elementim.",
+        "colors": "bg-orange-200 hover:border-orange-600 border-orange-400 hover:bg-orange-300"
+    },
+    {
+        "number": 55,
+        "symbol": "Cs",
+        "name": "Sezyum",
+        "rule": "Radyoaktif alana girdiniz. Tepkimeye girmemek için yağ tabakasının içine gir.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 56,
+        "symbol": "Ba",
+        "name": "Baryum",
+        "rule": "Endüstride birçok ürünün üretiminde kilit rol oynarım. Çinko, kurşun ve gümüş üretiminde kullanılır ve röntgen ışınlarını geçirmem.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "number": 72,
+        "symbol": "Hf",
+        "name": "Hafniyum",
+        "rule": "Beni bulduğun için çok şanslısın, doğada az rastlanırım. Zirkonyum bileşiklerini içinde bulunurum.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 73,
+        "symbol": "Ta",
+        "name": "Tantal",
+        "rule": "Nadir bulunurum ve korozyona karşı çok dayanıklıyımdır.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 74,
+        "symbol": "W",
+        "name": "Volfram",
+        "rule": "Çok sert ve ağır bir çeliğim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 75,
+        "symbol": "Re",
+        "name": "Renyum",
+        "rule": "Parlak ve beyaz renkte bir elementim. 3150 °C’ de eririm.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 76,
+        "symbol": "Os",
+        "name": "Osmiyum",
+        "rule": "Bilinen en ağır elementim. Platin ile çıkartılırım. Platin’e ilerle.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 77,
+        "symbol": "Ir",
+        "name": "İridyum",
+        "rule": "Çok sert kırılgan gümüş beyazı platin ailesinin en yoğun ikinci elementiyim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 78,
+        "symbol": "Pt",
+        "name": "Platin",
+        "rule": "Grimsi beyaz renkli ve ağır dövülen bir elementim. Altından sonraki en kıymetli metalimdir. Altına ilerle",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 79,
+        "symbol": "Au",
+        "name": "Altın",
+        "rule": "İnsanlar tarafından kullanılan ilk saf metallerden biriyim ve keşfedildiğim ilk günden beri çokta değerliğim. Benim için tarihte savaşlar bile yapıldı. Kullanım alanlarım saymakla bitmez.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 80,
+        "symbol": "Hg",
+        "name": "Civa",
+        "rule": "Çok zehirli bir elementim. Civa zehirlenmesi yaşıyorsun. Beş geriye git.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 81,
+        "symbol": "Tl",
+        "name": "Talyum",
+        "rule": "Zehirli bir element olduğum için kullanımım oldukça sınırlıdır. Düşük erime noktam sayesinde düşük sıcaklık termometrelerinde ve anahtarlarda kullanılırım.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 82,
+        "symbol": "Pb",
+        "name": "Kurşun",
+        "rule": "Çok ağırım. Üzerine yapıştım. 1 geriye git ve benden kurtul.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 83,
+        "symbol": "Bi",
+        "name": "Bizmut",
+        "rule": "Mide ilaçlarında kullanılırım. Sana 1 can kazandırdım zar at.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 84,
+        "symbol": "Po",
+        "name": "Polonyum",
+        "rule": "Radyasyon saçıyorum. Hemen uzaklaş ve 3 adım ilerle.",
+        "colors": "bg-yellow-200 hover:border-orange-500 border-orange-300 hover:bg-yellow-300"
+    },
+    {
+        "number": 85,
+        "symbol": "At",
+        "name": "Astatin",
+        "rule": "Çok nadirim beni kimse görmedi. Hemen buharlaşırım. Buharlaşarak 5 adım ilerle.",
+        "colors": "bg-yellow-200 hover:border-orange-500 border-orange-300 hover:bg-yellow-300"
+    },
+    {
+        "number": 86,
+        "symbol": "Rn",
+        "name": "Radon",
+        "rule": "Yer atında bulunur, bodrum katlarında birikirim.",
+        "colors": "bg-orange-200 hover:border-orange-600 border-orange-400 hover:bg-orange-300"
+    },
+    {
+        "number": 87,
+        "symbol": "Fr",
+        "name": "Fransiyum",
+        "rule": "Ben çok kararsızım. Bu yüzden benimle ilgili çok bilgi bulunmamakta.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 88,
+        "symbol": "Ra",
+        "name": "Radyum",
+        "rule": "Karanlıkta parlarım, sana yolu açarım. 3 adım ilerle.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "isEmpty": true
+    },
+    {
+        "number":104,
+        "symbol": "Rf",
+        "name": "Rutherfordiyum",
+        "rule": "Albert Ghiorso tarafından bulundum.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 105,
+        "symbol": "Db",
+        "name": "Dubniyum",
+        "rule": "İlk kez Moskova’nın Dübna kasabasında bulundum.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 106,
+        "symbol": "Sg",
+        "name": "Seaborgiyum",
+        "rule": "Bana Gleen T. Seabong’un adı verildi.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 107,
+        "symbol": "Bh",
+        "name": "Bohriyum",
+        "rule": "Gümüş veya gri renkliyim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 108,
+        "symbol": "Hs",
+        "name": "Hassiyum",
+        "rule": "Adımı Almanya’nın Hessen eyaletinden alırım.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number":109,
+        "symbol": "Mt",
+        "name": "Meitneryum",
+        "rule": "Ben yapay bir elementim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 110,
+        "symbol": "Ds",
+        "name": "Darmstadtiyum",
+        "rule": "GSI ekibi tarafından sentezendim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 111,
+        "symbol": "Rg",
+        "name": "Röntgenyum",
+        "rule": "İsmim W. Conrad Röntgen anısına verildi.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 112,
+        "symbol": "Cn",
+        "name": "Kopernikyum",
+        "rule": "Keşfedilen elementler arasında en ağır ve en büyüğü benim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 113,
+        "symbol": "Nh",
+        "name": "Nihonyum",
+        "rule": "Asya kıtasında isimlendirilen ilk elementim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number":114,
+        "symbol": "Fl",
+        "name": "Flerovyum",
+        "rule": "Çok hızlı bozundum beni gözlemleyemezsin.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 115,
+        "symbol": "Mc",
+        "name": "Moskoviyum",
+        "rule": "Süper ağır yapay bir elementim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 116,
+        "symbol": "Lv",
+        "name": "Livermorviyum",
+        "rule": "Geçici ismim Ununheksiyumdu.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 117,
+        "symbol": "Ts",
+        "name": "Tenessin",
+        "rule": "Elektriği çok iyi, sıcaklığı çok kötü iletirim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 118,
+        "symbol": "Og",
+        "name": "Oganesson",
+        "rule": "!KAZANDINIZ!",
+        "colors": "bg-emerald-500 hover:border-emerald-800 border-emerald-600 hover:bg-emerald-600"
     }
 ]

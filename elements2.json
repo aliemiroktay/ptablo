@@ -1,86 +1,212 @@
 [
     {
-        "number": 1,
-        "symbol": "H",
-        "name": "Hidrojen",
-        "rule": "Başlangıcıyım periyodik tablonun haydi başlayalım.",
-        "colors": "bg-white hover:border-gray-500 border-gray-300 hover:bg-gray-100"
-    },
-    {
-        "number": 5,
-        "symbol": "B",
-        "name": "Bor",
-        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "number": 57,
+        "symbol": "La",
+        "name": "Lantan",
+        "rule": "Ben ve oluşturduğum bileşikler yüksek konsantrasyonlarda zehirlidir. Dikkatle ele alınmalıdır. Eldiven ve koruyucu maskeni hemen tak. Cilde ve gözlere aşırı temas halinde kızarıklık veya tahrişe yol açabilirim.",
         "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
     },
     {
-        "number": 6,
-        "symbol": "C",
-        "name": "Karbon",
-        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "number": 58,
+        "symbol": "Ce",
+        "name": "Seryum",
+        "rule": "Optik ve cam yapım sanayinde kullanılırım.",
         "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
     },
     {
-        "number": 7,
-        "symbol": "N",
-        "name": "Azot",
-        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "number":59,
+        "symbol": "Pr",
+        "name": "Praseodim",
+        "rule": "Evinde çokça bulunan ender bir kimyasallardan biriyim. Hadi evde bulunduğu malzemeleri birlikte sayalım; renkli televizyonlar, flüoresan lambalar, enerji tasarruflu lambalar ve camlar.",
         "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
     },
     {
-        "number": 8,
-        "symbol": "O",
-        "name": "Oksijen",
-        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
-        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover"
-    },
-    {
-        "number": 9,
-        "symbol": "F",
-        "name": "Flor",
-        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "number": 60,
+        "symbol": "Nd",
+        "name": "Neodimyum",
+        "rule": "Parlak mor ve kızılötesi radyasyonu filtreleyen özel cam üretilmesinde kullanılırım. Dünyanın en güçlü mıknatısı benimle üretilir.",
         "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
     },
     {
-        "number": 10,
-        "symbol": "Ne",
-        "name": "Neon",
-        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "number": 61,
+        "symbol": "Pm",
+        "name": "Prometyum",
+        "rule": "Benim ışınlarım yolunu aydınlattı. Tekrar zar at.",
         "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
     },
     {
-        "number": 11,
-        "symbol": "Na",
-        "name": "Sodyum",
-        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "number": 62,
+        "symbol": "Sm",
+        "name": "Samaryum",
+        "rule": "Seni kanserden kurtardım. 1 can kazandın zar at.",
         "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
     },
     {
-        "number": 12,
-        "symbol": "Mg",
-        "name": "Magnezyum",
-        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "number": 63,
+        "symbol": "Eu",
+        "name": "Evropiyum",
+        "rule": "Televizyonlarda kullanılırım. Hadi beni seyret.",
         "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
     },
     {
-        "number": 13,
-        "symbol": "Al",
-        "name": "Alüminyum",
-        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "number": 64,
+        "symbol": "Gd",
+        "name": "Gadolinyum",
+        "rule": "Nötronları soğurma işlemi başladı. Nükleer reaktör kalkanı açıldı.",
         "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
     },
     {
-        "number": 14,
-        "symbol": "Si",
-        "name": "Silisyum",
-        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "number": 65,
+        "symbol": "Tb",
+        "name": "Terbiyum",
+        "rule": "Çok pahalıyım. Hoparlörde kullanılırım. Bir müzik dinlemeye ne dersin?",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 66,
+        "symbol": "Dy",
+        "name": "Disprozyum",
+        "rule": "Beni çok kullanma tükenme ihtimalim var. Dünya element koruma derneği kur.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 67,
+        "symbol": "Ho",
+        "name": "Holmiyum",
+        "rule": "Manyetik güce sahibim. Zarı çekiyorum. 1 zar at.",
         "colors": "bg-red-100 hover:border-red-500  border-red-300 hover:bg-red-200"
     },
     {
-        "number": 15,
-        "symbol": "P",
-        "name": "Fosfor",
-        "rule": "Hafifim ama çok enerjik bir elementim. İlk 3 asımımda enerjimi gösteririm.",
+        "number": 68,
+        "symbol": "Er",
+        "name": "Erbiyum",
+        "rule": "Su ve oksijenle temas ettiğim için tepkime başladı. Hemen zar at ve uzaklaş",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 69,
+        "symbol": "Tm",
+        "name": "Tulyum",
+        "rule": "Saf halimin bulunması çok nadir ve pahalı olması ve özelliklerimin günlük hayata kullanıma pek de uygun olmadığı için genel olarak kimyasal araştırmalarda kullanılırım.",
+        "colors": "bg-red-100 hover:border-red-500  border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 70,
+        "symbol": "Yb",
+        "name": "İterbiyum",
+        "rule": "Paslanmaz çeliği arttırmada kullanılırım.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 71,
+        "symbol": "Lu",
+        "name": "Lutetyum",
+        "rule": "Beni yeterli miktarlarda elde etmek oldukça pahalıdır ve bu nedenle çok az ticari kullanıma sahibim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 89,
+        "symbol": "Ac",
+        "name": "Aktinyum",
+        "rule": "Uranyumdan çok zor çıkarım ve son derece radyoaktifim.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 90,
+        "symbol": "Th",
+        "name": "Toryum",
+        "rule": "Gümüş renkliyim ancak hava ile temas edersem kararırım.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 91,
+        "symbol": "Pa",
+        "name": "Proaktinyum",
+        "rule": "İlk olarak Kaşimir Fajans bulmuştur beni.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 92,
+        "symbol": "U",
+        "name": "Uranyum",
+        "rule": "Ateş ile ısıtıldım yanıyorum hemen 3 adım ileri git ve uzaklaş.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 93,
+        "symbol": "Np",
+        "name": "Neptünyum",
+        "rule": "Toryum gibi gümüş rengindeyim hava ile temas ettiğimde kararırım.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 94,
+        "symbol": "Pu",
+        "name": "Plütonyum",
+        "rule": "Senin derine değdiğim zaman kanser olursun hemen zar at ve uzaklaş.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 95,
+        "symbol": "Am",
+        "name": "Amerikyum",
+        "rule": "Bana aşırı derecede maruz kalman sonucunda akciğerler, karaciğer ve tiroit gibi organların zarar görebilmektedir. Hemen zar at ve uzaklaş.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 96,
+        "symbol": "Cm",
+        "name": "Küriyum",
+        "rule": "Adımı, radyoaktivite araştırmalarıyla tanınan Marie ve Pierre Curie'den aldım.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 97,
+        "symbol": "Bk",
+        "name": "Berkelyum",
+        "rule": "Günümüzde bilimsel araştırmalar haricinde herhangi bir kullanım alanım bulunmamaktadır.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 98,
+        "symbol": "Cf",
+        "name": "Kaliforniyum",
+        "rule": "Saf halim yumuşaktır ve beni bıçakla kolayca kesebilirsin.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 99,
+        "symbol": "Es",
+        "name": "Einsteiniyum",
+        "rule": "İlk kez hidrojen bombası patlamasının enkazından keşfedildim. Temel bilimsel araştırmalar dışında neredeyse hiç kullanım alanım yoktur.",
+        "colors": "bg-red-100 hover:border-red-500  border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 100,
+        "symbol": "Fm",
+        "name": "Fermiyum",
+        "rule": "İsmimi fizikçi Fermi’den alıyorum.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 101,
+        "symbol": "Md",
+        "name": "Mendelevyum",
+        "rule": "Bana Dmitri Mendelev’in ismi verildi.",
+        "colors": "bg-red-100 hover:border-red-500  border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 102,
+        "symbol": "No",
+        "name": "Nobelyum",
+        "rule": "Nobel fizik enstitüsü tarafından bulundum.",
+        "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
+    },
+    {
+        "number": 103,
+        "symbol": "Lr",
+        "name": "Lavrensiyum",
+        "rule": "Beni zarla kullanma. Çok kullanılınca ışınım kirliliğine sebep olurum.",
         "colors": "bg-red-100 hover:border-red-500 border-red-300 hover:bg-red-200"
     }
 ]
