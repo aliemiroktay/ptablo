@@ -17,7 +17,7 @@ function Home() {
         <p className="text-black text-md">{element.rule}</p>
       </div> : <></>}
 
-      <div className="grid grid-cols-18 grid-rows-7 w-[95%] lg:w-[80%] xl:w-[95%] 2xl:w-[80%] h-1/2 m-auto">
+      <div className="grid grid-cols-18 grid-rows-7 w-[95%] lg:w-[100%] xl:w-[95%] 2xl:w-[80%] h-1/2 m-auto">
         {elements.map((element) => (
           <Element key={element.number ?? Math.floor(Math.random() * 1000000000)} onClick={() => setElement(element)} {...element} />
         ))}
