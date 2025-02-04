@@ -17,13 +17,13 @@ function Home() {
         <p className="text-black text-md">{element.rule}</p>
       </div> : <></>}
 
-      <div className="grid grid-cols-18 grid-rows-7 w-[95%] lg:w-[70%] xl:w-[95%] 2xl:w-[80%] h-1/2 m-auto">
+      <div className="grid grid-cols-18 grid-rows-7 w-[95%] lg:w-[70%] xl:w-[95%] 2xl:w-[80%] h-1/3 m-auto">
         {elements.map((element) => (
           <Element key={element.number ?? Math.floor(Math.random() * 1000000000)} onClick={() => setElement(element)} {...element} />
         ))}
       </div>
 
-      <div className="grid grid-cols-15 grid-rows-2 w-3/5 m-auto">
+      <div className="grid grid-cols-15 grid-rows-2 w-2/5 m-auto">
         {elements2.map((element) => (
           <Element key={element.number ?? Math.floor(Math.random() * 1000000000)} onClick={() => setElement(element)} {...element} />
         ))}
