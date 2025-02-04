@@ -23,7 +23,7 @@ function Home() {
         ))}
       </div>
 
-      <div className="grid grid-cols-15 grid-rows-2 w-4/5 m-auto">
+      <div className="grid grid-cols-15 grid-rows-2 w-3/5 m-auto">
         {elements2.map((element) => (
           <Element key={element.number ?? Math.floor(Math.random() * 1000000000)} onClick={() => setElement(element)} {...element} />
         ))}
